@@ -1,2 +1,4 @@
 bin/
-Reports/
+[Rr]eports/
+obj/[Dd]ebug/
+obj/[Rr]elease/
